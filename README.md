@@ -32,9 +32,9 @@ Python library:
 
 ## Usage
 (LOCAL)
-1. (First use only): Clone this repository, then change directory to src. `cd src`
-2. Install the required python library
-3. To run the library, open the "main.ipynb" file
+1. Install the required python library
+2. (First use only): Clone this repository
+3. To run the library, open the "main.ipynb" file in src folder
 4. Run the first cell to import all of the required library
 5. Load dataset and create dataframe by running the first cell of each dataset
 6. Run other cells to visualize the convex hull 
