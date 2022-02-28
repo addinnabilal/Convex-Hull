@@ -28,16 +28,17 @@ Python library:
 - matplotlip.pyplot
 - math
 - sklearn (to load datasets)
-
+ 
 
 ## Usage
 (LOCAL)
-1. Install the required python library
+1. Install the required python libraries in your python environment (you can youse conda)
 2. (First use only): Clone this repository
 3. To run the library, open the "main.ipynb" file in src folder
-4. Run the first cell to import all of the required library
-5. Load dataset and create dataframe by running the first cell of each dataset
-6. Run other cells to visualize the convex hull 
+4. Activate the environment that has the required python libraries
+5. Run the first cell to import all of the required library
+6. Load dataset and create dataframe by running the first cell of each dataset
+7. Run other cells to visualize the convex hull 
 
 
 ## Project Status
